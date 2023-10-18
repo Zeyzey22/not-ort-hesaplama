@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class manav_kasa {
     public static void main(String[] args) {
         double a = 2.14 , e = 3.67 , d = 1.11 , m = 0.95 , p = 5.00;
+        // a,e,d,m,p armut,elma,domates muz ve patlıcanın kilogram fiyatları//
         double a1, e1, d1, m1, p1;
+        // a1,e,d1,m1,p1 armut,elma,domates,muz ve patlıcanın kaç kilo oldugunu gösterir//
         double toplam_tutar;
 
         Scanner inp = new Scanner(System.in);
